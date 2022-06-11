@@ -33,4 +33,10 @@ build/
 ### VS Code ###
 .vscode/
 
+### application.yml ###
 application.yml
+
+### secure-connect ###
+secure-connect-inbox-app.zip
+
+
